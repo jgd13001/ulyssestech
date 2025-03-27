@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Previous Scholarship
-permalink: scholarship
+title: About
+permalink: about
 show-title: true
 ---
 
-Here, you might discuss what previous scholarship has been written about your topic.
+# About the Project
+Content here...
 
+# Reasons for Research 
 You should make sure to investigate..
 
 1. Whatever important *traditional* (non-digital) work has been done on your subject. Because you will want to consider how your project impacts scholarship.
