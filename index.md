@@ -4,11 +4,16 @@ title: Home
 show-title: false
 ---
 
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
+## Project Overview
+In James Joyce's Irish modernist novel _Ulysses,_ the protagonists spend a day in the Dublin of 1904, a critical turning point in Irish history in part due to Ireland's increasing globalization at this time. Thanks to the Industrial Revolution and the advent of accessible steamboat travel, in conjunction with the enormous British Empire, Irish engagement with the rest of the world was heightened. 
 
-1. The project & general background
-2. Who you are
+Yet, as part of this globalized Ireland, Joyce grapples with and criticizes the depictions of Ireland as a largely agricultural and pastoral nation elsewhere in the world. This, then raises the question of what methods he employs to depict Ireland, particularly Dublin, as a modern city on par with cities in other parts of the world. Therefore, we interrogate: what language does Joyce use to discuss technology in Ulysses, and how does its presence push back against a “pastoral” Irish stereotype? How does Ireland’s technological advancement connect to its growing globalization?
 
+The purpose of this project is to use textual data analysis to pay attention to how and where technology appears within the text of _Ulysses._ By performing a distance reading of the entire book that pays attention to the rhetoric surrounding the technological developments recent to 1904, we understand Joyce's treatment of these objects not as advanced, alien technology new to Ireland, but as well-integrated elements of everyday Dublin life.
+
+While recommended for scholars with an emerging interest in Joyce and scholars who wish to determine if text analysis methods suit their own research, this website includes enough context to be accessible to anyone who is interested in learning about James Joyce or his most famous novel.
+
+## Site Tutorials (Delete Later)
 ---
 
 Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Help on using Markdown!
