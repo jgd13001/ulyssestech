@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Findings
-permalink: findings
+title: Technology
+permalink: technology
 show-title: true
 ---
 
