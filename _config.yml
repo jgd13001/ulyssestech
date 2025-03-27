@@ -3,8 +3,8 @@ baseurl: "/ulyssestech" # the name of your github repo
 url: "https://jgd13001.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
-description: Your Project Description @ Boston College
+title: "Technology in James Joyce's Ulysses"
+description: A data-based textual analysis of _Ulysses_ @ Boston College
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -13,25 +13,28 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Background
+  - title: About
+    link: about
+  - title: Technology
+    link: technology
     submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
-  - title: Findings
-    link: findings
-  - title: Reflections
-    link: reflections
+      - title: Communication
+        link: communication
+      - title: Transportation
+        link: transportation
+      - title: Records
+        link: records
+  - title: Methods
+    link: methods
   - title: Bibliography
     link: bibliography
-
+    
 # sets whether a search bar appears on the site header
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
 footer-message: Put Your Footer Message Here | CC BY-NC License
-footer-submessage:  By Your Name, with the Digital Scholarship Group, Boston College
+footer-submessage:  By Julie "JD" Dai, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
