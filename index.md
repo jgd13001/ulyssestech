@@ -13,7 +13,7 @@ The purpose of this project is to use textual data analysis to pay attention to 
 
 While recommended for scholars with an emerging interest in Joyce and scholars who wish to determine if text analysis methods suit their own research, this website includes enough context to be accessible to anyone who is interested in learning about James Joyce or his most famous novel.
 
-![A sample heatmap.](assets/img/heatmap_tramcars.png)
+![A sample heatmap.](https://jgd13001.github.io/ulyssestech/assets/img/heatmap_tramcars.png)
 
 ## Site Tutorials (Delete Later)
 ---
